@@ -77,7 +77,7 @@ python -m http.server 8000
 4. Open the following URL in the browser:
 
 ```text
- https://shojib-80.github.io/Crossing_Quest/
+ https://localhost:0000
 ```
 
 The project can also be opened with VS Code Live Server or any other local static file server.
