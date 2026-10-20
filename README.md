@@ -2,6 +2,8 @@
 
 A browser-based 3D cross-the-road arcade game where the player controls a chicken character across moving traffic and forest lanes while trying to survive as long as possible and beat the best score.
 
+Live link -  https://shojib-80.github.io/Crossing_Quest/
+
 ## Overview
 
 This project is a static front-end game built with HTML, CSS, and JavaScript. The game uses Three.js to render an isometric 3D scene with roads, moving vehicles, trees, lighting, shadows, and a responsive HUD. Players move through a procedurally generated grid of lanes, avoid incoming cars and trucks, and continue as long as they can stay clear of obstacles.
